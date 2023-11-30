@@ -1,0 +1,34 @@
+h1 { 
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(116, 69, 29);
+}
+
+h2 {
+    color: rgb(116, 69, 29);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+h3 {
+    color: rgb(116, 69, 29);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.menu-image {
+    width: 300px;
+    height: 230px;
+}
+
+.recipe-page-image {
+    width: 400px;
+    height: auto;
+}
+
+.description,
+.ingredients,
+.steps {
+    background-color: blanchedalmond;
+}
